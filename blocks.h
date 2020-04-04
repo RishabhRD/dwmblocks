@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 
-	{" ", "~/.local/bin/statusbar/music",0,12},
+	{" ", "~/.local/bin/statusbar/music",5,12},
 
 	{" ", "~/.local/bin/statusbar/showRecord.sh",0,14},
 
