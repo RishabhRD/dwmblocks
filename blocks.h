@@ -12,11 +12,11 @@ static const Block blocks[] = {
 
 	{"", "~/.local/bin/statusbar/ip_addr.sh wifi wlp3s0",5,0},
 
-	{"📬 ", "~/.local/bin/statusbar/mailbox",0,13},
+	{"📩 ", "~/.local/bin/statusbar/mailbox",0,13},
 
-	{"", "~/.local/bin/statusbar/volume",0,10},
+	{"", "~/.local/bin/statusbar/volume",5,10},
 
-	{"☀: ", "~/.local/bin/statusbar/brightness",	0,11},
+	{"☀: ", "~/.local/bin/statusbar/brightness",	5,11},
 	
 	{"📅 ", "~/.local/bin/statusbar/clock",	5,0},
 
